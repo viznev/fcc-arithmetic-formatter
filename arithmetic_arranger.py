@@ -1,6 +1,3 @@
-from math import perm
-
-
 def arithmetic_arranger(problems, displayAnswer=False):
   # setup variables
   arranged_problems = ''
